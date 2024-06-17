@@ -1,0 +1,29 @@
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: #182a3f;
+  min-height: 100vh;
+}
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: #182a3f;
+  min-height: 100vh;
+}
+
+.contenedor {
+  border: 1px solid;
+  width: 500px;
+  height: auto;
+  padding: 50px;
+  position: absolute;
+  left: 30%;
+  top: 40%;
+}
+button {
+  border: 50px;
+}

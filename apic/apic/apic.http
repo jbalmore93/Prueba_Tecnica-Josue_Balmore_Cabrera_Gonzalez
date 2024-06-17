@@ -1,0 +1,11 @@
+@apic_HostAddress = http://localhost:5078/api
+
+GET {{apic_HostAddress}}/usuario
+Accept: application/json
+
+###
+
+GET {{apic_HostAddress}}/usuario
+Accept: application/json
+
+###
