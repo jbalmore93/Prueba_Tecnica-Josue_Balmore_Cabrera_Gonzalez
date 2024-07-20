@@ -7,13 +7,16 @@ using System.Text.Json.Serialization;
 
 internal class Program
 {
+<<<<<<< HEAD
 
+=======
+>>>>>>> c3e1970557781cd35ecb238f0c9214c178d47ab1
     private static string ip = "http://localhost:5173";
     private static void Main(string[] args)
     {
         var builder = WebApplication.CreateSlimBuilder(args);
         
-        builder.Services.AddCors(options =>
+        builder.Services.AddCors(policy =>
         {
             options.AddPolicy("Cors", policy =>
             {
