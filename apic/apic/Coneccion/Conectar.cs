@@ -14,7 +14,7 @@ namespace apic.Coneccion
 {
     public class Conectar
     {   
-        private static string server = "LAPTOP - F4MGA7VC";
+        private static string server = "LAPTOP-F4MGA7VC";
         private static string db = "prueba";
         private static string cadena = "Data Source="+server+";Initial Catalog="+db+";Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True";
         private static string insert = "INSERT INTO usuario (nombre_usuario, suma_puntos) VALUES (@usuario, @puntos)";

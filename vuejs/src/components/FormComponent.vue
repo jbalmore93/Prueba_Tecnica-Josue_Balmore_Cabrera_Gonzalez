@@ -7,16 +7,17 @@
       <option class="text-info" value="2">Apostar por Par e Impar</option>
       <option class="text-info" value="3">Apostar por Numero y Color</option>
     </select>
+    <div v-if="tipo!=''">
     <div class="bg-info text-white">
       <v-responsive
     class="mx-auto mt-2"
     max-width="300"
     max-height="100"
   >
+
       <v-text-field
         type="number"
         class="mx-2 bg-info"
-        :rules="[rules.required]"
         v-model="apuesta"
         placeholder="500"
         label="Insertar apuesta"
@@ -29,6 +30,7 @@
     </div>
     <div v-if="parseFloat(apuesta) <= 0 || apuesta == ''">
       <strong for="" class="text-danger">Ingrese un valor valido</strong>
+    </div>
     </div>
     <div>
       <div
@@ -149,9 +151,6 @@ export default defineComponent({
   },
   data() {
     return {
-      rules:[
-      {nombre: 'apuesta' ,required : value => !!value ||'El campo es requerido'},
-      ],
       nombre: this.usuario,
       puntos: this.punto,
       number: "",

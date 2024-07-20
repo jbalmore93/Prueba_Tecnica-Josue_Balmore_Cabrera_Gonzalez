@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\coneccion\\conectar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\coneccion\\conectar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\coneccion\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\coneccion\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\coneccion\\conectar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\coneccion\\conectar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\controlador\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\controlador\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\coneccion\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\coneccion\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|solutionrelative:apic\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE0150A8-543E-420D-9925-48D4F438B3C6}|apic\\apic.csproj|c:\\users\\josue\\documents\\github\\prueba-tecnica-josue-balmore-cabrera-gonzalez\\apic\\apic\\modelo\\ruleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Metodos.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\apic\\Coneccion\\Metodos.cs",
               "RelativeDocumentMoniker": "apic\\Coneccion\\Metodos.cs",
@@ -66,15 +66,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\apic\\Program.cs",
               "RelativeDocumentMoniker": "apic\\Program.cs",
               "ToolTip": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\apic\\Program.cs",
               "RelativeToolTip": "apic\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDUAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T21:08:28.124Z"
+              "WhenOpened": "2024-06-15T21:08:28.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Conectar.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\apic\\Coneccion\\Conectar.cs",
               "RelativeDocumentMoniker": "apic\\Coneccion\\Conectar.cs",
               "ToolTip": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\apic\\Coneccion\\Conectar.cs",
               "RelativeToolTip": "apic\\Coneccion\\Conectar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T01:35:49.135Z",
               "EditorCaption": ""
@@ -109,13 +110,14 @@
               "RelativeDocumentMoniker": "apic\\Controlador\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\apic\\Controlador\\UsuarioController.cs",
               "RelativeToolTip": "apic\\Controlador\\UsuarioController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwDAAAAARAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAADAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T04:33:34.959Z"
+              "WhenOpened": "2024-06-05T04:33:34.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Documents\\GitHub\\Prueba-Tecnica-Josue-Balmore-Cabrera-Gonzalez\\apic\\apic\\Modelo\\Usuario.cs",
               "RelativeDocumentMoniker": "apic\\Modelo\\Usuario.cs",
