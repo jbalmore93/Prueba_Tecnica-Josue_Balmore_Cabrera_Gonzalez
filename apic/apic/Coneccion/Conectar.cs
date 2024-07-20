@@ -30,7 +30,7 @@ namespace apic.Coneccion
                     double puntos = user.SumaPuntos;
                     conectar.Open();
                     DataSet comprobar = Mostrar(usuario);
-                    if (comprobar.Tables.Count == 0)
+                    if (comprobar.Tables[0].Rows.Count == 0)
                     {
                         string consulta = insert;
                         using (SqlCommand comando = new SqlCommand(consulta, conectar))
